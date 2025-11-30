@@ -1,0 +1,52 @@
+{
+  "electric_fan": {
+    "category": "block",
+    "subtitle": "subtitles.sound-blocks.electric_fan",
+    "sounds": [
+      {
+        "name": "sound-blocks:electric_fan",
+        "stream": true
+      }
+    ]
+  },
+  "electrical_transformer": {
+    "category": "block",
+    "subtitle": "subtitles.sound-blocks.electrical_transformer",
+    "sounds": [
+      {
+        "name": "sound-blocks:electrical_transformer",
+        "stream": true
+      }
+    ]
+  },
+  "server_room": {
+    "category": "block",
+    "subtitle": "subtitles.sound-blocks.server_room",
+    "sounds": [
+      {
+        "name": "sound-blocks:server_room",
+        "stream": true
+      }
+    ]
+  },
+  "stormy_winds_forest": {
+    "category": "block",
+    "subtitle": "subtitles.sound-blocks.stormy_winds_forest",
+    "sounds": [
+      {
+        "name": "sound-blocks:stormy_winds_forest",
+        "stream": true
+      }
+    ]
+  },
+  "wind_howling_transformer_box": {
+    "category": "block",
+    "subtitle": "subtitles.sound-blocks.wind_howling_transformer_box",
+    "sounds": [
+      {
+        "name": "sound-blocks:wind_howling_transformer_box",
+        "stream": true
+      }
+    ]
+  }
+}

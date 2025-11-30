@@ -1,0 +1,49 @@
+
+-------------------
+
+Freesound - https://freesound.org/
+
+Felix Blume - https://freesound.org/people/felix.blume/sounds/157280/#comments
+OleSouWester - https://freesound.org/people/OleSouWester/sounds/434510/
+Simon Spiers - https://freesound.org/people/Simon%20Spiers/sounds/502523/
+Garuda1982 - https://freesound.org/people/Garuda1982/sounds/635185/
+Kyles - https://freesound.org/people/kyles/sounds/637377/
+Nox_Sound - https://freesound.org/people/Nox_Sound/sounds/545663/
+
+-------------------
+
+YouTube - https://www.youtube.com/
+
+SnowMetal / danieklerr - https://www.youtube.com/@danieklerr
+ModdingByKaupenjoe - https://www.youtube.com/@ModdingByKaupenjoe
+
+-------------------
+
+Artificial Intelligence
+
+ChatGPT 5.1 - https://chatgpt.com/
+JetBrains AI (Gemini 3 Pro) - https://www.jetbrains.com/ai/
+
+-------------------
+
+Software
+
+Notepad++ - https://notepad-plus-plus.org/
+IntelliJ IDEA - https://www.jetbrains.com/idea/
+Audacity - https://www.audacityteam.org/
+
+-------------------
+
+Game Related
+
+Minecraft - https://minecraft.net/
+Modrinth - https://modrinth.com/
+CurseForge - https://www.curseforge.com/minecraft
+Fabric Mod Loader - https://fabricmc.net/
+Cloth Config API (Fabric) - https://www.curseforge.com/minecraft/mc-mods/cloth-config
+
+-------------------
+
+Special Thanks
+
+Verbot - https://youtu.be/RrESvSRNpeo?si=RLahnG0afjR77tPa

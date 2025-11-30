@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "sound-blocks:item/sound_block_texture"
+  }
+}
